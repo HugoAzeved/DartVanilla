@@ -40,7 +40,7 @@ void main() {
 
     case '/':
       if (double.parse(strNum2!) == 0) {
-        print("Não pode dividir por zero!");
+        print("Infelizmente você não pode dividir por zero!");
       } else {
         print(
           '$strNum1 / $strNum2 = ${double.parse(strNum1!) / double.parse(strNum2)}',
