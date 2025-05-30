@@ -10,5 +10,5 @@ int soma(int a, int b) {
 void main() {
   int resultado = soma(3, 7);
 
-  print('A soma dos dois numeros é: ${resultado}'); 
+  print('A soma dos dois numeros é: ${resultado}');
 }
